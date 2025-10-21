@@ -1,10 +1,10 @@
 #define CATCH_CONFIG_MAIN
 #include <catch.hpp>
-#include <..\sortingDZ1Korneev\sortingDZ1Korneev\Bubble.cpp>
-#include <..\sortingDZ1Korneev\sortingDZ1Korneev\Exchange.cpp>
-#include <..\sortingDZ1Korneev\sortingDZ1Korneev\Insertion.cpp>
-#include <..\sortingDZ1Korneev\sortingDZ1Korneev\OptimizedBubble.cpp>
-#include <..\sortingDZ1Korneev\sortingDZ1Korneev\Selection.cpp>
+#include <Bubble.cpp>
+#include <Exchange.cpp>
+#include <Insertion.cpp>
+#include <OptimizedBubble.cpp>
+#include <Selection.cpp>
 #include <vector>
 #include <algorithm>
 
