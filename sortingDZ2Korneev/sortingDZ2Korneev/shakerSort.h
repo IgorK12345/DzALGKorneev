@@ -3,4 +3,4 @@
 #include <vector>
 
 template<typename T>
-int shakerSort(std::vector<T>& arr);
+void shakerSort(std::vector<T>& arr);

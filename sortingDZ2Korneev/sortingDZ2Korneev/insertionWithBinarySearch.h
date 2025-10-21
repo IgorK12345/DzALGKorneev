@@ -3,4 +3,4 @@
 #include <vector>
 
 template<typename T>
-int insertionWithBinarySearch(std::vector<T>& arr);
+void insertionWithBinarySearch(std::vector<T>& arr);
